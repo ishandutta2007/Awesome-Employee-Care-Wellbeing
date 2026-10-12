@@ -1,38 +1,57 @@
-# Awesome-Employee-Care-Wellbeing
+<p align="center">
+  <img src="./assets/banner.svg" alt="Awesome Employee Care & Wellbeing Banner" width="100%" />
+</p>
 
-## Top Employee Care & Wellbeing Ecosystem
+# 🌟 Awesome Employee Care & Wellbeing
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on Mental Health, Wellness Programs & Employee Support*  
-**Last updated: March 2026**
+> 🧘 A curated index of top **SaaS platforms** and **open-source projects** dedicated to workplace mental health, employee wellness programs, burnout reduction, and corporate healthcare benefits.
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Employee Care & Wellbeing**. These tools enable organizations to support employee mental health, physical wellness, financial wellbeing, and family care — reducing burnout, improving engagement, and building a culture of care.
-
-**Examples** include Salesforce CAREforce, Lyra Health, Modern Health, Spring Health, Virgin Pulse (Personify Health), Gympass (Wellhub), Calm for Business, Headspace for Work, Wellable, and Limeade (the category leaders).
-
-**Open-source emphasis**: This section features active projects for self-hosting, privacy-first wellness tracking, employee dislocation response, burnout analytics, and open mental health support — ideal for HR teams, developers, and organizations seeking transparent, vendor-independent employee wellbeing solutions.
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Employee-Care-Wellbeing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Employee-Care-Wellbeing?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Employee-Care-Wellbeing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Employee-Care-Wellbeing?style=flat-square&color=blue" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Employee-Care-Wellbeing/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Employee-Care-Wellbeing?style=flat-square&color=green" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📌 Introduction & Scope
 
-The global corporate wellness and employee care market is estimated at approximately **$55 billion to $62 billion** (projected to exceed $85 billion by 2030 at an ~6–8% CAGR). The sector remains **moderately to highly fragmented** rather than winner-take-all: while consolidated enterprise players (Personify Health, Wellhub, Lyra Health) dominate large-employer benefit packages, hundreds of specialized regional and point-solution vendors thrive across niche verticals such as clinical mental health, continuous burnout telemetry, sleep/mindfulness, and localized gym networks.
+Welcome to **Awesome Employee Care & Wellbeing** — the ultimate guide and directory for human resources (HR) professionals, people operations leaders, developers, and wellness committees looking to invest in mental health support, preventive physical wellness, financial counseling, and burnout prevention. 
+
+Whether you are evaluating enterprise-grade corporate benefits or looking to deploy privacy-preserving, self-hosted open-source monitoring systems, this list curates the category leaders, comprehensive market data, pricing structures, and developer datasets.
 
 ---
 
-## SaaS/Hosted Platforms
+## 📑 Table of Contents
 
-| Company / Product | Size (Revenue / Valuation) | Pricing | Free Tier / Trial Limit | Key Focus & Overview |
+- [📈 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS / Hosted Platforms](#️-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
+- [⚖️ Disclaimer](#️-disclaimer)
+
+---
+
+## 📈 Sector Overview & Market Dynamics
+
+The global corporate wellness and employee care market is valued between **$55 billion and $62 billion**, with forecasts projecting it will surpass **$85 billion by 2030** (~6–8% CAGR), propelled by post-pandemic remote-work models, workplace mental health regulations, and escalating burnout costs.
+
+The industry ecosystem is **moderately to highly fragmented**:
+- **Enterprise Giants & Benefits Aggregators** (such as *Personify Health / Virgin Pulse*, *Wellhub / Gympass*, and *Lyra Health*) capture large enterprise health plans through bundled packages.
+- **Niche & Regional Innovators** thrive across clinical therapy, mindfulness, asynchronous burnout analysis, sleep health, and bespoke team engagement challenges, preventing any single player from commanding a winner-take-all monopoly.
+
+---
+
+## ☁️ SaaS / Hosted Platforms
+
+Below is an overview of top hosted employee care platforms, sorted in descending order by **company size (market cap / valuation / revenue)**.
+
+| 🏢 Company / Product | 📊 Size (Revenue / Valuation) | 💵 Pricing | 🎁 Free Tier / Trial Limit | 🎯 Key Focus & Overview |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Salesforce CAREforce](https://www.salesforce.com/news/stories/ten-years-of-careforce/)** | $38.3B Revenue (FY25) / ~$300B Market Cap | Included in enterprise employee benefit packages; internal program model shared via Trailhead & Safety Cloud starting at $25/user/month | No stand-alone SaaS free plan; offers a 30-day free trial of Salesforce Platform with full basic features | Global corporate health, safety, and wellbeing program turning 10 in 2026. Built on four pillars: Communicate, Assist, Respond, and Educate. Over 700 trainings reached 27,000+ employees with 97% safety satisfaction. |
 | **[Lyra Health](https://www.lyrahealth.com/)** | $5.58B Valuation (Series F) / ~$1B+ Revenue | Starts at ~$4.00 – $7.00 per employee per month (PEPM) based on contracted employer size | 14-day employer pilot demo available upon request; no permanent free tier | Leading workforce mental health benefits provider covering 17M+ global members. Features AI-driven provider matching, up to 12 employer-sponsored therapy sessions, and 24/7 clinical triage. |
@@ -47,9 +66,11 @@ The global corporate wellness and employee care market is estimated at approxima
 
 ---
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
-| Project | Stars | Key Features & Stack |
+Explore transparent, self-hosted, and community-driven tools for employee wellbeing, mental health telemetry, and burnout analytics. Sorted in descending order by **GitHub Star Count**.
+
+| 📦 Project | ⭐ Stars | 🛠️ Key Features & Stack |
 | :--- | :--- | :--- |
 | **[Synthetic AI Developer Productivity & Burnout Dataset](https://github.com/syncora-ai/Synthetic-AI-Developer-Productivity-Dataset)** | [![GitHub stars](https://img.shields.io/github/stars/syncora-ai/Synthetic-AI-Developer-Productivity-Dataset?style=social&color=white)](https://github.com/syncora-ai/Synthetic-AI-Developer-Productivity-Dataset/stargazers) | High-fidelity synthetic dataset capturing developer productivity metrics, work hours, task velocity, and cognitive burnout markers. Ideal for training privacy-compliant workplace ML models. |
 | **[Burnout.io](https://github.com/reignite/burnout.io)** | [![GitHub stars](https://img.shields.io/github/stars/reignite/burnout.io?style=social&color=white)](https://github.com/reignite/burnout.io/stargazers) | Open knowledge base, screening guides, and assessment tools engineered to identify and prevent work-related exhaustion and occupational burnout. |
@@ -69,22 +90,41 @@ The global corporate wellness and employee care market is estimated at approxima
 
 ---
 
-## How to Contribute
+## 🤝 How to Contribute
 
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
+Contributions make the open-source and HR community thrive! To add or update an entry:
 
-Star the repo if you find it useful!
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Employee wellbeing platforms handling health data must comply with data protection and privacy regulations (GDPR, HIPAA, CCPA, etc.).
-- Self-hosted open-source solutions require proper security hardening, encryption at rest, and ongoing maintenance. Mental health data is sensitive and should be handled with appropriate care and clinical oversight.
+1. 🍴 **Fork the repo**.
+2. 🌿 **Create a feature branch** (`git checkout -b feature/add-new-tool`).
+3. ✏️ **Edit [`README.md`](README.md)** with clear links, accurate metrics, pricing, and descriptions.
+4. 📬 **Submit a Pull Request** explaining the additions.
 
 ---
 
-**Made for HR teams, people operations, benefits managers, and developers building transparent employee care solutions.**  
-Let's make Employee Care & Wellbeing more open, data-driven, and human-centered.
+## 💖 Support
+
+Thank you so much for visiting and using **Awesome Employee Care & Wellbeing**! If you find this directory valuable for your organization, research, or development:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork and share** with colleagues, HR teams, and developer communities.
+- ☕ **Buy a Coffee / Sponsor**: Consider supporting ongoing curation and maintenance via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Employee-Care-Wellbeing&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Employee-Care-Wellbeing&type=date&legend=top-left)
+
+---
+
+## ⚖️ Disclaimer
+
+- This is an independent **community-curated** list — inclusion does not constitute endorsement or medical advisory.
+- Employee wellbeing platforms handling personal health indicators must comply with health privacy standards (GDPR, HIPAA, CCPA, DPDPA).
+- Self-hosted open-source software handling mental health records must adhere to rigorous security best practices, secure at-rest encryption, and clinical protocol safeguards.
+
+---
+
+<p align="center">
+  <b>Built with care for HR leaders, benefits managers, and developers advancing human-centered workplace wellness.</b>
+</p>
